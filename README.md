@@ -2,15 +2,15 @@
 This project analyzes patient experience and service journey data to identify key drivers of satisfaction, understand patient engagement behavior, and highlight operational bottlenecks within a healthcare service context.
 
 # Objectives
-Identify the strongest drivers of patient satisfaction
-Analyze differences in experience across demographic groups
-Examine patient progression through the healthcare service journey
-Translate analytical findings into actionable business recommendations
+Identify the strongest drivers of patient satisfaction<br>
+Analyze differences in experience across demographic groups<br>
+Examine patient progression through the healthcare service journey<br>
+Translate analytical findings into actionable business recommendations<br>
 
 # Tools & Technologies
-Python (pandas, numpy, matplotlib, seaborn)
-SQL (joins, aggregations, funnel analysis)
-Power BI (interactive dashboards and storytelling)
+Python (pandas, numpy, matplotlib, seaborn)<br>
+SQL (joins, aggregations, funnel analysis)<br>
+Power BI (interactive dashboards and storytelling)<br>
 
 # Dataset Description
 The analysis uses three synthetic datasets designed to reflect realistic healthcare service and survey patterns:
