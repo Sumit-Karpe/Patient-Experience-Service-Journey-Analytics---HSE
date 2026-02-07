@@ -7,7 +7,7 @@ Analyze differences in experience across demographic groups<br>
 Examine patient progression through the healthcare service journey<br>
 Translate analytical findings into actionable business recommendations<br>
 
-Tools & Technologies<br>
+Tools & Technologies for the project<br>
 Python (pandas, numpy, matplotlib, seaborn)<br>
 SQL (joins, aggregations, funnel analysis)<br>
 Power BI (interactive dashboards and storytelling)<br>
@@ -17,7 +17,7 @@ The analysis uses three synthetic datasets designed to reflect realistic healthc
 patients_demographics.csv – demographic and socioeconomic attributes<br>
 patient_experience_surveys.csv – patient satisfaction and experience scores<br>
 patient_service_funnel.csv – step-level service journey records<br>
-All data is fully synthetic and privacy-safe.<br>
+All data is fully synthetic and privacy-safe. The datasets were generated using AI based on the input available through HSE's job listing.<br>
 
 Key Analyses Performed<br>
 Exploratory Data Analysis (EDA)<br>
@@ -32,7 +32,7 @@ Older patients exhibit slightly lower satisfaction and higher funnel drop-off<br
 The largest disengagement occurs between appointment scheduling and attendance<br>
 Higher satisfaction strongly correlates with recommendation behavior<br>
 
-Recommendations<br>
+Recommendations for further immprovement in the Service<br>
 Improve appointment attendance through reminders and scheduling optimization<br>
 Prioritize communication-focused service improvements<br>
 Increase survey engagement, particularly among older patient groups<br>
