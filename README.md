@@ -30,6 +30,7 @@ Key Insights<br>
 Communication quality and timeliness are the strongest drivers of patient satisfaction<br>
 Older patients exhibit slightly lower satisfaction and higher funnel drop-off<br>
 The largest disengagement occurs between appointment scheduling and attendance<br>
+![Demo Screenshot](https://github.com/Sumit-Karpe/Patient-Experience-Service-Journey-Analytics---HSE/blob/main/Images/Appointment%20drop%20off%20rate.png)
 Higher satisfaction strongly correlates with recommendation behavior<br>
 
 Recommendations for further immprovement in the Service<br>
